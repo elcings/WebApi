@@ -1,0 +1,9 @@
+E:\MYProjects\WebApi\WebCoreApi.Domain\bin\Debug\netcoreapp2.2\WebCoreApi.Domain.deps.json
+E:\MYProjects\WebApi\WebCoreApi.Domain\bin\Debug\netcoreapp2.2\WebCoreApi.Domain.dll
+E:\MYProjects\WebApi\WebCoreApi.Domain\bin\Debug\netcoreapp2.2\WebCoreApi.Domain.pdb
+E:\MYProjects\WebApi\WebCoreApi.Domain\obj\Debug\netcoreapp2.2\WebCoreApi.Domain.csprojAssemblyReference.cache
+E:\MYProjects\WebApi\WebCoreApi.Domain\obj\Debug\netcoreapp2.2\WebCoreApi.Domain.csproj.CoreCompileInputs.cache
+E:\MYProjects\WebApi\WebCoreApi.Domain\obj\Debug\netcoreapp2.2\WebCoreApi.Domain.AssemblyInfoInputs.cache
+E:\MYProjects\WebApi\WebCoreApi.Domain\obj\Debug\netcoreapp2.2\WebCoreApi.Domain.AssemblyInfo.cs
+E:\MYProjects\WebApi\WebCoreApi.Domain\obj\Debug\netcoreapp2.2\WebCoreApi.Domain.dll
+E:\MYProjects\WebApi\WebCoreApi.Domain\obj\Debug\netcoreapp2.2\WebCoreApi.Domain.pdb

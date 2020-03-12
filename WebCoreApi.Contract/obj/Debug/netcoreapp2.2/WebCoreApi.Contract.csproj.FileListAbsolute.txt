@@ -1,0 +1,12 @@
+E:\MYProjects\WebApi\WebCoreApi.Contract\bin\Debug\netcoreapp2.2\WebCoreApi.Contract.deps.json
+E:\MYProjects\WebApi\WebCoreApi.Contract\bin\Debug\netcoreapp2.2\WebCoreApi.Contract.dll
+E:\MYProjects\WebApi\WebCoreApi.Contract\bin\Debug\netcoreapp2.2\WebCoreApi.Contract.pdb
+E:\MYProjects\WebApi\WebCoreApi.Contract\bin\Debug\netcoreapp2.2\WebCoreApi.Domain.dll
+E:\MYProjects\WebApi\WebCoreApi.Contract\bin\Debug\netcoreapp2.2\WebCoreApi.Domain.pdb
+E:\MYProjects\WebApi\WebCoreApi.Contract\obj\Debug\netcoreapp2.2\WebCoreApi.Contract.csprojAssemblyReference.cache
+E:\MYProjects\WebApi\WebCoreApi.Contract\obj\Debug\netcoreapp2.2\WebCoreApi.Contract.csproj.CoreCompileInputs.cache
+E:\MYProjects\WebApi\WebCoreApi.Contract\obj\Debug\netcoreapp2.2\WebCoreApi.Contract.AssemblyInfoInputs.cache
+E:\MYProjects\WebApi\WebCoreApi.Contract\obj\Debug\netcoreapp2.2\WebCoreApi.Contract.AssemblyInfo.cs
+E:\MYProjects\WebApi\WebCoreApi.Contract\obj\Debug\netcoreapp2.2\WebCoreApi.Contract.csproj.CopyComplete
+E:\MYProjects\WebApi\WebCoreApi.Contract\obj\Debug\netcoreapp2.2\WebCoreApi.Contract.dll
+E:\MYProjects\WebApi\WebCoreApi.Contract\obj\Debug\netcoreapp2.2\WebCoreApi.Contract.pdb

@@ -1,0 +1,12 @@
+E:\MYProjects\WebApi\WebCoreApi.Data\bin\Debug\netcoreapp2.2\WebCoreApi.Data.deps.json
+E:\MYProjects\WebApi\WebCoreApi.Data\bin\Debug\netcoreapp2.2\WebCoreApi.Data.dll
+E:\MYProjects\WebApi\WebCoreApi.Data\obj\Debug\netcoreapp2.2\WebCoreApi.Data.csprojAssemblyReference.cache
+E:\MYProjects\WebApi\WebCoreApi.Data\obj\Debug\netcoreapp2.2\WebCoreApi.Data.csproj.CoreCompileInputs.cache
+E:\MYProjects\WebApi\WebCoreApi.Data\obj\Debug\netcoreapp2.2\WebCoreApi.Data.AssemblyInfoInputs.cache
+E:\MYProjects\WebApi\WebCoreApi.Data\obj\Debug\netcoreapp2.2\WebCoreApi.Data.AssemblyInfo.cs
+E:\MYProjects\WebApi\WebCoreApi.Data\obj\Debug\netcoreapp2.2\WebCoreApi.Data.csproj.CopyComplete
+E:\MYProjects\WebApi\WebCoreApi.Data\bin\Debug\netcoreapp2.2\WebCoreApi.Data.pdb
+E:\MYProjects\WebApi\WebCoreApi.Data\bin\Debug\netcoreapp2.2\WebCoreApi.Domain.dll
+E:\MYProjects\WebApi\WebCoreApi.Data\bin\Debug\netcoreapp2.2\WebCoreApi.Domain.pdb
+E:\MYProjects\WebApi\WebCoreApi.Data\obj\Debug\netcoreapp2.2\WebCoreApi.Data.dll
+E:\MYProjects\WebApi\WebCoreApi.Data\obj\Debug\netcoreapp2.2\WebCoreApi.Data.pdb
