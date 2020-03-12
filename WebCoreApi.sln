@@ -13,7 +13,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentatio
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Business", "Business", "{1E4CB4B1-AFB2-409D-BD58-A42F4A473703}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCoreApi.Domain", "WebCoreApi.Domain\WebCoreApi.Domain.csproj", "{A8118FEB-F1A7-413F-A639-B6880B0C0807}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebCoreApi.Domain", "WebCoreApi.Domain\WebCoreApi.Domain.csproj", "{A8118FEB-F1A7-413F-A639-B6880B0C0807}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCoreApi.MobileApi", "WebCoreApi.MobileApi\WebCoreApi.MobileApi.csproj", "{2C28FF44-90EF-4EB2-8F7C-B12765E353EE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,12 +27,17 @@ Global
 		{A8118FEB-F1A7-413F-A639-B6880B0C0807}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A8118FEB-F1A7-413F-A639-B6880B0C0807}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A8118FEB-F1A7-413F-A639-B6880B0C0807}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C28FF44-90EF-4EB2-8F7C-B12765E353EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C28FF44-90EF-4EB2-8F7C-B12765E353EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C28FF44-90EF-4EB2-8F7C-B12765E353EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C28FF44-90EF-4EB2-8F7C-B12765E353EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{A8118FEB-F1A7-413F-A639-B6880B0C0807} = {26957F08-640B-4A58-A8A0-2167A76C9BFE}
+		{2C28FF44-90EF-4EB2-8F7C-B12765E353EE} = {7ED53120-6EF7-4791-B37B-B26312CDA713}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0FE8AA2D-70C6-4046-B316-477E31F6DAD2}

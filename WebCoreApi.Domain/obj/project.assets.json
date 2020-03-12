@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\MYProjects\\WebCoreApi\\WebCoreApi\\WebCoreApi.Domain\\WebCoreApi.Domain.csproj",
+      "projectUniqueName": "E:\\MYProjects\\WebApi\\WebCoreApi.Domain\\WebCoreApi.Domain.csproj",
       "projectName": "WebCoreApi.Domain",
-      "projectPath": "E:\\MYProjects\\WebCoreApi\\WebCoreApi\\WebCoreApi.Domain\\WebCoreApi.Domain.csproj",
+      "projectPath": "E:\\MYProjects\\WebApi\\WebCoreApi.Domain\\WebCoreApi.Domain.csproj",
       "packagesPath": "C:\\Users\\elchin.a\\.nuget\\packages\\",
-      "outputPath": "E:\\MYProjects\\WebCoreApi\\WebCoreApi\\WebCoreApi.Domain\\obj\\",
+      "outputPath": "E:\\MYProjects\\WebApi\\WebCoreApi.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
