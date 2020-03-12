@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data Layer", "Data Layer", "{46058188-CC43-4934-A181-5D0F94560C9A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain Layer", "Domain Layer", "{26957F08-640B-4A58-A8A0-2167A76C9BFE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Contract", "Contract", "{EC4F8761-7BA4-4868-B659-EF7B45EAF198}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{7ED53120-6EF7-4791-B37B-B26312CDA713}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Business", "Business", "{1E4CB4B1-AFB2-409D-BD58-A42F4A473703}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCoreApi.Domain", "WebCoreApi.Domain\WebCoreApi.Domain.csproj", "{A8118FEB-F1A7-413F-A639-B6880B0C0807}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8118FEB-F1A7-413F-A639-B6880B0C0807}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8118FEB-F1A7-413F-A639-B6880B0C0807}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8118FEB-F1A7-413F-A639-B6880B0C0807}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8118FEB-F1A7-413F-A639-B6880B0C0807}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A8118FEB-F1A7-413F-A639-B6880B0C0807} = {26957F08-640B-4A58-A8A0-2167A76C9BFE}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FE8AA2D-70C6-4046-B316-477E31F6DAD2}
+	EndGlobalSection
+EndGlobal
