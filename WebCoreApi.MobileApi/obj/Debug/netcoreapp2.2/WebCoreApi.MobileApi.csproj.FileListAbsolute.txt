@@ -1,0 +1,14 @@
+E:\MYProjects\WebApi\WebCoreApi.MobileApi\bin\Debug\netcoreapp2.2\WebCoreApi.MobileApi.deps.json
+E:\MYProjects\WebApi\WebCoreApi.MobileApi\bin\Debug\netcoreapp2.2\WebCoreApi.MobileApi.runtimeconfig.json
+E:\MYProjects\WebApi\WebCoreApi.MobileApi\bin\Debug\netcoreapp2.2\WebCoreApi.MobileApi.runtimeconfig.dev.json
+E:\MYProjects\WebApi\WebCoreApi.MobileApi\bin\Debug\netcoreapp2.2\WebCoreApi.MobileApi.dll
+E:\MYProjects\WebApi\WebCoreApi.MobileApi\obj\Debug\netcoreapp2.2\WebCoreApi.MobileApi.csprojAssemblyReference.cache
+E:\MYProjects\WebApi\WebCoreApi.MobileApi\obj\Debug\netcoreapp2.2\WebCoreApi.MobileApi.csproj.CoreCompileInputs.cache
+E:\MYProjects\WebApi\WebCoreApi.MobileApi\obj\Debug\netcoreapp2.2\WebCoreApi.MobileApi.RazorAssemblyInfo.cache
+E:\MYProjects\WebApi\WebCoreApi.MobileApi\obj\Debug\netcoreapp2.2\WebCoreApi.MobileApi.RazorAssemblyInfo.cs
+E:\MYProjects\WebApi\WebCoreApi.MobileApi\obj\Debug\netcoreapp2.2\WebCoreApi.MobileApi.AssemblyInfoInputs.cache
+E:\MYProjects\WebApi\WebCoreApi.MobileApi\obj\Debug\netcoreapp2.2\WebCoreApi.MobileApi.AssemblyInfo.cs
+E:\MYProjects\WebApi\WebCoreApi.MobileApi\obj\Debug\netcoreapp2.2\WebCoreApi.MobileApi.RazorTargetAssemblyInfo.cache
+E:\MYProjects\WebApi\WebCoreApi.MobileApi\bin\Debug\netcoreapp2.2\WebCoreApi.MobileApi.pdb
+E:\MYProjects\WebApi\WebCoreApi.MobileApi\obj\Debug\netcoreapp2.2\WebCoreApi.MobileApi.dll
+E:\MYProjects\WebApi\WebCoreApi.MobileApi\obj\Debug\netcoreapp2.2\WebCoreApi.MobileApi.pdb
